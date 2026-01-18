@@ -10,7 +10,7 @@
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouly-sikdar)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:moulysikdar7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:moulysikdar7@gmail.com)
 
 ---
 
