@@ -6,7 +6,6 @@
 - 🌱 Focused on backend development and system design  
 - 💡 Constantly learning new technologies and frameworks  
 - 🧠 Interested in algorithms, problem-solving & clean coding
-- 🎯 Goal: To contribute to open-source projects and build products that solve real-world problems.
 - 💬 Ask me about: Java, Python, Backend architecture, or why I love Clean Coding.
 
 
@@ -24,6 +23,7 @@
 ## 🛠 Languages & Tools
 
 ### 📝 Programming Languages
+
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -31,7 +31,7 @@
 ![Html](https://img.shields.io/badge/Html-00599C?style=for-the-badge&logo=Html)
 
 ---
-## 🗄️ Databases & Cloud
+### 🗄️ Databases & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -41,14 +41,16 @@
 
 ---
 
-## 🧰 Frameworks
+### 🧰 Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
-## 🔧 Tools & DevOps
+### 🔧 Tools & DevOps
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -60,6 +62,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouly19&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mouly19&theme=dark&border_radius=6)
