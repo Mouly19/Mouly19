@@ -2,10 +2,12 @@
 
 # Hi there, I'm Mouly Sikdar 👋
 
-## 👨‍💻 About Me  
+## 👩🏻‍💻 About Me  
 - 🌱 Focused on backend development and system design  
 - 💡 Constantly learning new technologies and frameworks  
-- 🧠 Interested in algorithms, problem-solving & clean coding  
+- 🧠 Interested in algorithms, problem-solving & clean coding
+- 🎯 Goal: To contribute to open-source projects and build products that solve real-world problems.
+- 💬 Ask me about: Java, Python, Backend architecture, or why I love Clean Coding.
 
 
 ---
