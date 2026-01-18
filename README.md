@@ -1,22 +1,17 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Mouly+Sikdar;Computer+Science+Student;AI+/+ML+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-
-# Hi there, I'm Mouly Sikdar 👋
 
 ## 👩🏻‍💻 About Me  
-- 🌱 Focused on backend development and system design  
+- 🎓 Pursuing B.Tech in Computer Science and Engineering.
+- 🌱 Focused on backend development and Machine learning.
 - 💡 Constantly learning new technologies and frameworks  
 - 🧠 Interested in algorithms, problem-solving & clean coding
 - 💬 Ask me about: Java, Python, Backend architecture, or why I love Clean Coding.
 
-
----
-<div align="center">
- 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouly-sikdar)
-[![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:moulysikdar7@gmail.com)
-
-</div>
 
 ---
 
@@ -72,6 +67,16 @@
 ## 🚀 Fun Fact
 💻 I enjoy coding, learning new technologies, and building useful projects.
  👋
+ 
+---
+<div align="center">
+ 
+# 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouly-sikdar)
+[![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:moulysikdar7@gmail.com)
+
+</div>
+
 
 <!--
 **Mouly19/Mouly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
