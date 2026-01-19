@@ -60,9 +60,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouly19&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mouly19&theme=dark&border_radius=6)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mouly19)](https://git.io/streak-stats)
 
 
 ## 🚀 Fun Fact
@@ -79,6 +77,9 @@
 [![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:moulysikdar7@gmail.com)
 
 </div>
+
+
+
 
 
 <!--
