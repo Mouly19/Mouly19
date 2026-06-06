@@ -55,7 +55,11 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mouly19&theme=tokyonight" />
+</p>
 
 
 
